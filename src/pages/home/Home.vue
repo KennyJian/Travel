@@ -2,7 +2,7 @@
   <div>
     <home-header></home-header>
     <home-swiper></home-swiper>
-    <div>test remote </div>
+    <div>test remote</div>
   </div>
 </template>
 
