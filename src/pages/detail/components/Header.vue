@@ -35,7 +35,6 @@ export default {
       } else {
         this.showAbs = true
       }
-      console.log(document.documentElement.scrollTop)
     }
   },
   activated () {
